@@ -10,5 +10,5 @@ Not to be confused with [ItemObjects](./itemObject), Objects are basic building 
 
 - [Locations](./Locations): Locations the player can be in. Can be navigated by moving through connected rooms.
 
-- [Global variables](./Global Variables): Variables that can be accessed anywhere.
+- [Global variables](./Global-Variables): Variables that can be accessed anywhere.
 
